@@ -23,4 +23,9 @@ Step 4: Collaborator commits and pushes the README file with the new changes to 
 Step 5: Owner pulls the changes that the Collaborator made
 
 :)
+
+## How to Create a Git Repository from an existing project
+1) Collaborator should navigate to the Owner’s repository on GitHub
+2) copy the clone URL
+3) In RStudio, the Collaborator will create a new project from version control by pasting this clone URL into the appropriate dialog box
 >>>>>>> d18140abb91ad6f3e6bfafde5df81c8583a3cd71
