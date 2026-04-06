@@ -22,7 +22,7 @@ Step 4: Collaborator commits and pushes the README file with the new changes to 
 
 Step 5: Owner pulls the changes that the Collaborator made
 
-:)
+:D
 
 ## How to Create a Git Repository from an existing project
 1) Collaborator should navigate to the Owner’s repository on GitHub
