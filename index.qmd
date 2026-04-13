@@ -1,0 +1,21 @@
+---
+title: "Github Pages - Index"
+format: html
+editor: visual
+---
+
+## Welcome
+
+This is my Github pages for Bio806
+This page serves as a landing page for my course analyses
+
+---
+
+# Project description
+
+
+---
+
+# Analyses
+
+
